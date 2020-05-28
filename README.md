@@ -1,24 +1,17 @@
-# README
+# Rails API
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+API created with Ruby on Rails.  Currently hosted on Azure web services.
 
-Things you may want to cover:
+# Core Concepts
+1.  API
+2.  MySQL database hosting
+3.  Web App hosting
+4.  CRUD operations
 
-* Ruby version
+Project Information:
 
-* System dependencies
+* Ruby version: 2.6.2
 
-* Configuration
+* System dependencies: Rails 6
 
-* Database creation
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
