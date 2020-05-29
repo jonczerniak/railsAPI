@@ -1,5 +1,6 @@
 class BikesController < ApplicationController
   before_action :set_bike, only: [:show, :update, :destroy]
+  before_action :authenticate
 
   # GET /bikes
   def index
